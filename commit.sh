@@ -8,5 +8,5 @@ if [ -z "$commitMessage" ]; then
 fi
 echo "commit..."
 git commit -m "$commitMessage"
-git push origin main --force
+git push origin main
 echo "done :3"
