@@ -1,4 +1,4 @@
-RecordCount: 12353
+RecordCount: 12375
 console load gamesword107/FrigidHillsideHike/aa_ColdHill_1
    1
 #Start
@@ -872,6 +872,7 @@ SaveAndQuitReenter
    6,R,J
    5,R,D,X
   40
+
 #lvl_A23
    5,R,D,X
    1,R,J,G
@@ -946,11 +947,12 @@ SaveAndQuitReenter
    8,R,K,G
    1,R
   40
+
 #lvl_A25
    7,R,D,X
-   1,R,K,G
-  11,R
-  22,R,J
+   2,R,K,G
+  13,R
+  19,R,J
   13,U,X
    6,R,J
    1,R
@@ -969,7 +971,6 @@ SaveAndQuitReenter
    2,K,G
    4,R,K
    1,R
-
    9,R,J
    2,R,K
    3,R,J,G
@@ -978,7 +979,10 @@ SaveAndQuitReenter
    1,R,J
    7,R
   40
-   6,R,J
+
+#lvl_Z-END
+   5,R,J
+   1,L,J
   12,R,D,X
    2,R,J,G
   13,R
